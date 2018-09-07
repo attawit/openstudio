@@ -1,5 +1,9 @@
 # OpenStudio
 
+PLEASE be inform that, this branch is not the orginal of openstudio, if you would like to use the openstudio please go to the original creator.   
+
+
+
 OpenStudio is freely distributed web based yoga studio software built upon OpenSource technology. 
 OpenStudio will help you manage customers, subscriptions, class cards, schedule classes, plan events and more. 
 
