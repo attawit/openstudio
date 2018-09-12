@@ -1,14 +1,11 @@
 # OpenStudio
 
-PLEASE be inform that, this branch is not the orginal of openstudio, if you would like to use the openstudio please go to the original creator.   
+PLEASE be inform that, this branch is not the orginal of openstudio, if you would like to use the openstudio please go to the original creator. This branch will focus on report and Online payment openly for paypal and other company gateway payment.    
 
 
 
-OpenStudio is freely distributed web based yoga studio software built upon OpenSource technology. 
-OpenStudio will help you manage customers, subscriptions, class cards, schedule classes, plan events and more. 
-
-Online payments are provided through [Mollie](https://www.mollie.com/en). Please refer to their website & support for current rates and questions about availability in your region.
-The OpenStudio Mollie integration handles single payments for classes, class cards, events and invoices. Recurring payments are supported for subscriptions. The web2py scheduler has to be running to process recurring payments.
+OpenStudio is freely distributed web based yoga studio software built upon OpenSource technology.
+OpenStudio will help you manage customers, subscriptions, class cards, schedule classes, plan events and more.
 
 More information can be found on [www.openstudioproject.com](https://www.openstudioproject.com).
 
@@ -42,9 +39,6 @@ Professional hosting is available.
 - SSL certificate included
 - Always run the latest version
 - Monitoring
-- Daily backups 
+- Daily backups
 
 [Hosting pricing and conditions](https://openstudioproject.com/get)
-
-
-Please use the [contact from](https://openstudioproject.com/contact) on our website for sales questions or requesting paid support.
